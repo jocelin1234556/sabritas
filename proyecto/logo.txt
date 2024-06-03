@@ -1,0 +1,21 @@
+<HTML>
+
+
+<HEAD>
+<TITLE>
+                          </TITLE>
+</HEAD>
+
+
+<BODY>
+
+<p align="center">
+<a href="mision.html" frmDerecha">
+<img src="sabritas.JPG" height="250" whidth="250"></img></a>
+</p>
+
+
+
+</BODY>
+
+</HTML>
